@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone X",
+    "image": "https://images.unsplash.com/photo-1511227682637-ddb98c43c42c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U21hcnRwaG9uZSUyMFh8ZW58MHx8MHx8fDA%3D",
+    "description": "Smartphone X offers cutting-edge technology with a sleek design. Featuring a powerful camera, long battery life, and lightning-fast processing, it's perfect for both casual and professional use.",
+    "more_description": "The Smartphone X also comes with a stunning edge-to-edge display, providing a rich, immersive experience for movies and gaming. Its high refresh rate screen ensures smooth scrolling, while the AI-powered camera adjusts to different lighting conditions for the perfect shot every time. With 5G connectivity, you'll experience ultra-fast downloads and real-time streaming.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": {
+          "name": "John Doe",
+          "location": "New York, NY",
+          "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+        },
+        "comment": "Amazing phone with fantastic features!",
+        "rating": 5,
+        "date": "2024-10-05T14:30:00"
+      },
+      {
+        "user": {
+          "name": "Jane Smith",
+          "location": "Los Angeles, CA",
+          "avatar": "https://randomuser.me/api/portraits/women/1.jpg"
+        },
+        "comment": "Great value for money.",
+        "rating": 4,
+        "date": "2024-10-07T11:00:00"
+      },
+      {
+        "user": {
+          "name": "Chris Brown",
+          "location": "Dallas, TX",
+          "avatar": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        "comment": "The display is vibrant, and the battery lasts all day.",
+        "rating": 4,
+        "date": "2024-10-09T16:45:00"
+      },
+      {
+        "user": {
+          "name": "Sophia Lee",
+          "location": "Miami, FL",
+          "avatar": "https://randomuser.me/api/portraits/women/15.jpg"
+        },
+        "comment": "I love the camera! Best photos I’ve ever taken.",
+        "rating": 5,
+        "date": "2024-10-10T13:10:00"
+      },
+      {
+        "user": {
+          "name": "Kevin Young",
+          "location": "Chicago, IL",
+          "avatar": "https://randomuser.me/api/portraits/men/16.jpg"
+        },
+        "comment": "Performance is solid, but it overheats after long usage.",
+        "rating": 3,
+        "date": "2024-10-12T10:20:00"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Laptop Pro 15",
+    "image": "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGFwdG9wJTIwUHJvJTIwMTV8ZW58MHx8MHx8fDA%3D",
+    "description": "Laptop Pro 15 is designed for professionals who need power on the go. With a high-resolution display, powerful processor, and extended battery life, it’s perfect for multitasking.",
+    "more_description": "This laptop also boasts a lightweight, durable chassis with premium build quality. It comes equipped with the latest ports, including USB-C and Thunderbolt for fast data transfer. The keyboard is backlit, perfect for working late, and the large trackpad offers precise control. Its cooling system ensures high performance even under heavy loads, making it ideal for video editing or gaming.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": {
+          "name": "Sarah Johnson",
+          "location": "Chicago, IL",
+          "avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+        },
+        "comment": "This laptop has changed my life!",
+        "rating": 5,
+        "date": "2024-10-01T08:30:00"
+      },
+      {
+        "user": {
+          "name": "Michael Brown",
+          "location": "San Francisco, CA",
+          "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+        },
+        "comment": "Very powerful and lightweight.",
+        "rating": 4,
+        "date": "2024-10-06T15:45:00"
+      },
+      {
+        "user": {
+          "name": "Natalie Green",
+          "location": "Austin, TX",
+          "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+        },
+        "comment": "The battery lasts all day, and it handles everything I throw at it.",
+        "rating": 5,
+        "date": "2024-10-07T10:00:00"
+      },
+      {
+        "user": {
+          "name": "David Miller",
+          "location": "Houston, TX",
+          "avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+        },
+        "comment": "Good for work, but it’s a bit pricey.",
+        "rating": 4,
+        "date": "2024-10-08T17:20:00"
+      },
+      {
+        "user": {
+          "name": "Emily Taylor",
+          "location": "Seattle, WA",
+          "avatar": "https://randomuser.me/api/portraits/women/14.jpg"
+        },
+        "comment": "I use it for both work and gaming, and it’s amazing.",
+        "rating": 5,
+        "date": "2024-10-10T18:30:00"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch 2",
+    "image": "https://images.unsplash.com/photo-1523755621014-30c8a5029566?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFNtYXJ0d2F0Y2h8ZW58MHx8MHx8fDA%3D",
+    "description": "Smartwatch 2 features health tracking, notifications, and customizable watch faces. It’s perfect for fitness enthusiasts and anyone who wants to stay connected on the go.",
+    "more_description": "In addition to tracking steps and heart rate, the Smartwatch 2 offers advanced features like sleep monitoring, GPS, and water resistance for swimming. The battery life lasts up to a week, and it supports wireless charging. You can sync it with your smartphone for seamless notifications and music control, making it an all-in-one companion for a busy lifestyle.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": {
+          "name": "David Wilson",
+          "location": "Miami, FL",
+          "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+        },
+        "comment": "Great for tracking my workouts!",
+        "rating": 5,
+        "date": "2024-10-02T10:00:00"
+      },
+      {
+        "user": {
+          "name": "Laura Taylor",
+          "location": "Boston, MA",
+          "avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+        },
+        "comment": "Stylish and functional.",
+        "rating": 4,
+        "date": "2024-10-11T13:15:00"
+      },
+      {
+        "user": {
+          "name": "Henry Evans",
+          "location": "Denver, CO",
+          "avatar": "https://randomuser.me/api/portraits/men/13.jpg"
+        },
+        "comment": "Battery lasts forever, and the design is sleek.",
+        "rating": 5,
+        "date": "2024-10-08T10:45:00"
+      },
+      {
+        "user": {
+          "name": "Lisa Robinson",
+          "location": "Phoenix, AZ",
+          "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
+        },
+        "comment": "The health tracking features are very accurate.",
+        "rating": 4,
+        "date": "2024-10-09T12:30:00"
+      },
+      {
+        "user": {
+          "name": "Mason Carter",
+          "location": "Las Vegas, NV",
+          "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+        },
+        "comment": "Wish there were more apps available.",
+        "rating": 3,
+        "date": "2024-10-12T15:00:00"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Tablet Mini",
+    "image": "https://images.unsplash.com/photo-1648806030599-c963fd14a22f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VGFibGV0JTIwTWluaXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Tablet Mini combines portability and performance, perfect for reading, streaming, or working on the go. Its compact design fits easily into your bag for ultimate convenience.",
+    "more_description": "Despite its small size, the Tablet Mini is packed with powerful features. The crystal-clear display is perfect for watching HD videos, and its lightweight design makes it ideal for one-handed use. The tablet also supports multitasking with split-screen functionality, making it easy to juggle work and play. With long battery life and fast charging capabilities, it’s always ready when you need it.",
+    "rating": 4.4,
+    "reviews": [
+      {
+        "user": {
+          "name": "James Davis",
+          "location": "Houston, TX",
+          "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+        },
+        "comment": "Perfect for my travels!",
+        "rating": 5,
+        "date": "2024-10-03T09:45:00"
+      },
+      {
+        "user": {
+          "name": "Emily Clark",
+          "location": "San Diego, CA",
+          "avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+        },
+        "comment": "Great for reading and streaming.",
+        "rating": 4,
+        "date": "2024-10-12T16:30:00"
+      },
+      {
+        "user": {
+          "name": "Henry Walker",
+          "location": "New York, NY",
+          "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+        },
+        "comment": "Lightweight, easy to carry, but could use more storage space.",
+        "rating": 4,
+        "date": "2024-10-11T10:00:00"
+      },
+      {
+        "user": {
+          "name": "Grace Martinez",
+          "location": "Philadelphia, PA",
+          "avatar": "https://randomuser.me/api/portraits/women/7.jpg"
+        },
+        "comment": "Battery life is fantastic, lasts all day.",
+        "rating": 5,
+        "date": "2024-10-07T14:00:00"
+      },
+      {
+        "user": {
+          "name": "Jacob White",
+          "location": "Los Angeles, CA",
+          "avatar": "https://randomuser.me/api/portraits/men/8.jpg"
+        },
+        "comment": "Could use better speakers, but overall very solid.",
+        "rating": 4,
+        "date": "2024-10-06T18:45:00"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Gaming Console Z",
+    "image": "https://images.unsplash.com/photo-1513599898445-1c34777500ab?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8R2FtaW5nJTIwQ29uc29sZXxlbnwwfHwwfHx8MA%3D%3D",
+    "description": "The Gaming Console Z brings your gaming experience to the next level. With stunning graphics and a vast library of games, it's perfect for both casual gamers and hardcore enthusiasts.",
+    "more_description": "This console offers a smooth performance powered by the latest processors and GPUs. With an intuitive interface, users can switch between games, streaming services, and apps effortlessly. Additionally, it supports 4K gaming and boasts backward compatibility, allowing you to enjoy older titles with enhanced graphics and frame rates.",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": {
+          "name": "Isabella Martinez",
+          "location": "Austin, TX",
+          "avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+        },
+        "comment": "Best graphics I've ever seen!",
+        "rating": 5,
+        "date": "2024-10-04T16:00:00"
+      },
+      {
+        "user": {
+          "name": "Noah Anderson",
+          "location": "Boston, MA",
+          "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+        },
+        "comment": "Fantastic multiplayer experience!",
+        "rating": 5,
+        "date": "2024-10-08T19:15:00"
+      },
+      {
+        "user": {
+          "name": "Emma Davis",
+          "location": "Dallas, TX",
+          "avatar": "https://randomuser.me/api/portraits/women/6.jpg"
+        },
+        "comment": "Love the variety of games available!",
+        "rating": 4,
+        "date": "2024-10-10T12:00:00"
+      },
+      {
+        "user": {
+          "name": "Lucas Green",
+          "location": "Phoenix, AZ",
+          "avatar": "https://randomuser.me/api/portraits/men/7.jpg"
+        },
+        "comment": "Couldn’t be happier with the performance.",
+        "rating": 5,
+        "date": "2024-10-11T15:45:00"
+      },
+      {
+        "user": {
+          "name": "Mia Thompson",
+          "location": "Denver, CO",
+          "avatar": "https://randomuser.me/api/portraits/women/8.jpg"
+        },
+        "comment": "Perfect for family gaming nights!",
+        "rating": 5,
+        "date": "2024-10-13T09:30:00"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Wireless Headphones",
+    "image": "https://images.unsplash.com/photo-1612858249937-1cc0852093dd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8V2lyZWxlc3MlMjBIZWFkcGhvbmVzfGVufDB8fDB8fHww",
+    "description": "These Wireless Headphones offer premium sound quality and comfort, perfect for music lovers. With long battery life and a sleek design, they are ideal for commuting, exercising, or simply relaxing.",
+    "more_description": "These headphones are equipped with active noise cancellation (ANC) to block out external noise for a more immersive listening experience. The soft ear cushions and lightweight design ensure maximum comfort during long listening sessions, while Bluetooth 5.0 provides a stable connection for seamless audio playback.",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "user": {
+          "name": "Amelia Clark",
+          "location": "Los Angeles, CA",
+          "avatar": "https://randomuser.me/api/portraits/women/7.jpg"
+        },
+        "comment": "Sound quality is incredible!",
+        "rating": 5,
+        "date": "2024-10-03T08:15:00"
+      },
+      {
+        "user": {
+          "name": "Ethan Lewis",
+          "location": "San Francisco, CA",
+          "avatar": "https://randomuser.me/api/portraits/men/8.jpg"
+        },
+        "comment": "Comfortable for long listening.",
+        "rating": 4,
+        "date": "2024-10-09T14:00:00"
+      },
+      {
+        "user": {
+          "name": "Sophia Taylor",
+          "location": "Chicago, IL",
+          "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+        },
+        "comment": "Battery life lasts forever!",
+        "rating": 5,
+        "date": "2024-10-12T10:00:00"
+      },
+      {
+        "user": {
+          "name": "James Parker",
+          "location": "Houston, TX",
+          "avatar": "https://randomuser.me/api/portraits/men/9.jpg"
+        },
+        "comment": "A bit too tight after a few hours.",
+        "rating": 3,
+        "date": "2024-10-13T13:20:00"
+      },
+      {
+        "user": {
+          "name": "Olivia Wilson",
+          "location": "Portland, OR",
+          "avatar": "https://randomuser.me/api/portraits/women/10.jpg"
+        },
+        "comment": "Great for working out!",
+        "rating": 4,
+        "date": "2024-10-14T09:45:00"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "image": "https://images.unsplash.com/photo-1558537348-c0f8e733989d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8amJsfGVufDB8fDB8fHww",
+    "description": "The Bluetooth Speaker delivers powerful sound in a compact design. With a long battery life and water resistance, it's perfect for parties, outdoor activities, or relaxing at home.",
+    "more_description": "This portable speaker features IPX7 water resistance, allowing it to be submerged in water for up to 30 minutes without damage. Its compact size makes it easy to carry, yet it delivers rich, deep bass and crisp treble. The speaker can last up to 24 hours on a single charge, perfect for day-long events.",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": {
+          "name": "Charlotte White",
+          "location": "New York, NY",
+          "avatar": "https://randomuser.me/api/portraits/women/9.jpg"
+        },
+        "comment": "Amazing sound for the size!",
+        "rating": 5,
+        "date": "2024-10-05T10:30:00"
+      },
+      {
+        "user": {
+          "name": "Liam Miller",
+          "location": "Los Angeles, CA",
+          "avatar": "https://randomuser.me/api/portraits/men/10.jpg"
+        },
+        "comment": "Great for outdoor use.",
+        "rating": 4,
+        "date": "2024-10-10T12:15:00"
+      },
+      {
+        "user": {
+          "name": "Grace Evans",
+          "location": "Miami, FL",
+          "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+        },
+        "comment": "The bass is really strong.",
+        "rating": 4,
+        "date": "2024-10-12T11:00:00"
+      },
+      {
+        "user": {
+          "name": "Henry King",
+          "location": "Orlando, FL",
+          "avatar": "https://randomuser.me/api/portraits/men/11.jpg"
+        },
+        "comment": "Battery life could be better.",
+        "rating": 3,
+        "date": "2024-10-14T15:30:00"
+      },
+      {
+        "user": {
+          "name": "Emily Scott",
+          "location": "San Diego, CA",
+          "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        "comment": "Love the waterproof feature.",
+        "rating": 5,
+        "date": "2024-10-15T14:20:00"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Action Camera",
+    "image": "https://images.unsplash.com/photo-1686226043803-51aea0da1c2c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QWN0aW9uJTIwQ2FtZXJhfGVufDB8fDB8fHww",
+    "description": "Capture your adventures with the Action Camera. This compact device is waterproof and offers high-resolution video, perfect for outdoor enthusiasts and travelers.",
+    "more_description": "This action camera captures 4K UHD video and has built-in stabilization for smooth footage, even in the roughest conditions. It's fully waterproof up to 33 feet without any additional casing, and its wide-angle lens ensures you never miss a moment. The camera also supports live streaming, making it perfect for vloggers.",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": {
+          "name": "Oliver Johnson",
+          "location": "Seattle, WA",
+          "avatar": "https://randomuser.me/api/portraits/men/11.jpg"
+        },
+        "comment": "Fantastic for my trips!",
+        "rating": 5,
+        "date": "2024-10-06T17:30:00"
+      },
+      {
+        "user": {
+          "name": "Ava Brown",
+          "location": "Chicago, IL",
+          "avatar": "https://randomuser.me/api/portraits/women/11.jpg"
+        },
+        "comment": "Great quality footage!",
+        "rating": 4,
+        "date": "2024-10-11T09:00:00"
+      },
+      {
+        "user": {
+          "name": "Benjamin Walker",
+          "location": "Portland, OR",
+          "avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+        },
+        "comment": "Very durable camera.",
+        "rating": 5,
+        "date": "2024-10-12T13:20:00"
+      },
+      {
+        "user": {
+          "name": "Ella Martinez",
+          "location": "San Antonio, TX",
+          "avatar": "https://randomuser.me/api/portraits/women/13.jpg"
+        },
+        "comment": "Wish the battery lasted longer.",
+        "rating": 4,
+        "date": "2024-10-13T14:00:00"
+      },
+      {
+        "user": {
+          "name": "Jack Wilson",
+          "location": "Las Vegas, NV",
+          "avatar": "https://randomuser.me/api/portraits/men/14.jpg"
+        },
+        "comment": "Perfect for my outdoor activities.",
+        "rating": 5,
+        "date": "2024-10-14T16:00:00"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "VR Headset",
+    "image": "https://images.unsplash.com/photo-1707228773541-539bb9252080?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXBwbGUlMjB2aXNpb24lMjBwcm98ZW58MHx8MHx8fDA%3D",
+    "description": "Immerse yourself in the virtual world with this VR Headset. With high-resolution visuals and advanced motion tracking, it delivers an unparalleled gaming experience.",
+    "more_description": "This VR headset features a 120-degree field of view and ultra-low latency for a fully immersive experience. Its built-in audio system provides 3D spatial sound, enhancing your experience in virtual worlds. The headset is lightweight, adjustable, and comfortable for long gaming sessions, and it's compatible with a wide range of VR games and apps.",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": {
+          "name": "Sophia Harris",
+          "location": "Miami, FL",
+          "avatar": "https://randomuser.me/api/portraits/women/12.jpg"
+        },
+        "comment": "Incredible immersion!",
+        "rating": 5,
+        "date": "2024-10-07T14:30:00"
+      },
+      {
+        "user": {
+          "name": "Liam Smith",
+          "location": "Chicago, IL",
+          "avatar": "https://randomuser.me/api/portraits/men/13.jpg"
+        },
+        "comment": "Best VR experience!",
+        "rating": 5,
+        "date": "2024-10-10T11:00:00"
+      },
+      {
+        "user": {
+          "name": "Harper Robinson",
+          "location": "Las Vegas, NV",
+          "avatar": "https://randomuser.me/api/portraits/women/14.jpg"
+        },
+        "comment": "So realistic, I forget I’m in my living room.",
+        "rating": 5,
+        "date": "2024-10-12T16:30:00"
+      },
+      {
+        "user": {
+          "name": "Ethan Carter",
+          "location": "Phoenix, AZ",
+          "avatar": "https://randomuser.me/api/portraits/men/15.jpg"
+        },
+        "comment": "A bit heavy on the head after long use.",
+        "rating": 4,
+        "date": "2024-10-13T18:15:00"
+      },
+      {
+        "user": {
+          "name": "Ella Collins",
+          "location": "New York, NY",
+          "avatar": "https://randomuser.me/api/portraits/women/15.jpg"
+        },
+        "comment": "Perfect for VR gaming.",
+        "rating": 5,
+        "date": "2024-10-14T12:45:00"
+      }
+    ]
+  }
+]
