@@ -31,7 +31,7 @@ A simple Node.js project that showcases a variety of gadgets using HTTP routing 
 3. Run the server:
 
    ```bash
-   node server.js
+   node index.js
    ```
 
 4. Open your browser and navigate to `http://127.0.0.1:3000` to view the gadget overview.
