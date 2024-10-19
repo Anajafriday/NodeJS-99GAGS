@@ -34,7 +34,7 @@ const invalidIdTemp = fs.readFileSync(
 );
 
 // Read and parse JSON data (API response data)
-const data = fs.readFileSync(`${__dirname}/de-data/data.json`, "utf-8"); // Read the gadget data from a JSON file
+const data = fs.readFileSync(`${__dirname}/../de-data/data.json`, "utf-8"); // Read the gadget data from a JSON file
 const dataObj = JSON.parse(data); // Parse JSON data into a JavaScript object
 
 // Create the server
